@@ -1,10 +1,10 @@
-fn call_me(num: u8) {
-    for i in 0..num {
+fn call_me(num: i8) {
+    for i in num..0 {
         println!("Ring! Call number {}", i + 1);
     }
 }
 
 fn main() {
     // TODO: Fix the function call.
-    call_me();
+    call_me(-2);
 }
