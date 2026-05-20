@@ -1,5 +1,20 @@
 # Retrospectives
 
+## 2026-05-20
+
+### What stood out today?
+
+* This ain’t C
+  * Statements versus expressions is something to think about
+  * It isn't crazy-different, like Perl or equivalent
+  * Not too far off... more easy that transitioning to Javascript
+* Still forgetting the syntax, as I'm not doing it consistently
+* Rustlings is just a sampler plate of the languageA
+* Worked a
+* John‘s question about return versus no-return/expression
+* Drew’s question about why Rust doesn't panic on an overflow
+  * You can enable this behavior, as desired
+
 ## 2026-05-19
 
 ### What did I find interesting?
