@@ -1,5 +1,25 @@
 # Retrospectives
 
+## 2026-05-26
+
+### What did I observe today?
+
+* Iterators are more like math; end up more clear
+* Phil’s typing is suspect...
+* Looking at array slices shows there is interesting memory ownership under the hood
+  * Excited to learn more!
+* Y’all did well without the pre-reading (except for John)
+  * Thank you for doing the reading, John!
+* Enjoyed the smaller group
+  * Pretty relaxed
+  * Good fit for not doing the reading!
+* Nice to be working with Vectors, and having more data types
+  * Embedded engineers can have nice things
+  * What will work across all the targets that we deal with
+* Adding a range or span type to C would be so nice!
+  * Would fix a lot of security issues
+* A lot more fun doing it as a group!
+
 ## 2026-05-20
 
 ### What stood out today?
