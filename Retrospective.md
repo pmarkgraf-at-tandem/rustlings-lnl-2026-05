@@ -1,5 +1,21 @@
 # Retrospectives
 
+## 2026-05-27
+
+### How did today's session go? What did I find interesting…
+
+* Great getting reminded of the Rust syntax
+* Appreciate exploring different options
+  * Learning about the details of types, smart pointers, etc…
+  * Lots of learning in the questions
+* Nice to look at the low-level details
+  * Used to it just working and not thinking about what is actually happening
+* UTF encoding of one to four bytes is interesting and good to learn
+* Lots of ways to initialize a vector
+* 99_i32 notation for encoding type in a literal
+  * 99L is the same in 'C'
+  * <https://en.cppreference.com/cpp/language/integer_literal>
+
 ## 2026-05-26
 
 ### What did I observe today?

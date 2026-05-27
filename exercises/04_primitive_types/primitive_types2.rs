@@ -15,9 +15,9 @@ fn main() {
     // TODO: Analogous to the example before, declare a variable called `your_character`
     // below with your favorite character.
     // Try a letter, try a digit (in single quotes), try a special character, try a character
-    // from a different language than your own, try an emoji 😉
-    // let your_character = '';
-
+    // from a different language than your own, try an emoji 😉 三
+    let your_character = '你';
+    // 你好 
     if your_character.is_alphabetic() {
         println!("Alphabetical!");
     } else if your_character.is_numeric() {
