@@ -1,5 +1,24 @@
 # Retrospectives
 
+## 2026-06-02
+
+### What stood out today?
+
+* Good job of using hints and one another!
+* Learning about bindings
+* Rust compiler messages are often very helpful, but not always...
+* Cloning versus switching the order... whether we reuse or create anew
+* "Notional Style Guide" conversations
+* Digging in on what is really happening in memory
+* Kindness for the person coming in late
+
+### Is six too many?
+
+* Great hearing everyone's thoughts
+* Everyone got to go twice, which was good
+* Seven or eight would probably need to split
+* Nice for the non-Rust discussion to have everyone together
+
 ## 2026-05-27
 
 ### How did today's session go? What did I find interesting…
