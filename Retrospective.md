@@ -1,5 +1,17 @@
 # Retrospectives
 
+## 2026-06-03
+
+### What was neat in this session?
+
+* Unit structs are fun
+  * Not used for default values in match (switch) statements!
+  * Zero element, zero size!
+* Talking about compiler letting a mutable reference go out of scope
+  * Compiler captures borrowing
+* Structs, no classes
+* ".." (struct update) syntax to assign default struct
+
 ## 2026-06-02
 
 ### What stood out today?
