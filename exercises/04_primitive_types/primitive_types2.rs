@@ -17,7 +17,7 @@ fn main() {
     // Try a letter, try a digit (in single quotes), try a special character, try a character
     // from a different language than your own, try an emoji 😉 三
     let your_character = '你';
-    // 你好 
+    // 你好
     if your_character.is_alphabetic() {
         println!("Alphabetical!");
     } else if your_character.is_numeric() {
