@@ -1,5 +1,23 @@
 # Retrospectives
 
+## 2026-06-10
+
+### What do I think about enums?
+
+* More unions than enums!
+* Really awesome when paired with match expressions.
+* Storage... check the AI article in the chat
+  * Notionally: variant, union
+
+### What do I think about the various strings?
+
+* Size of the smart pointer was interesting:
+  * String: Pointer, Length, Capacity
+  * &str: Pointer, Length
+* What we call &str:
+  * String slice!
+* Cool that &str can receive &str, string literals, and String.
+
 ## 2026-06-03
 
 ### What was neat in this session?
