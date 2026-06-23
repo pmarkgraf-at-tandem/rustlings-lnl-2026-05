@@ -1,5 +1,23 @@
 # Retrospectives
 
+## 2026-06-22
+
+### What are my reflections on today’s learnings?
+
+* Liked trying other ways to solve the problem
+  * Gives more learning and good discussion on why things might be preferred
+* Need to grab more food! Keep your brain working!
+* From CGM Dev Learning... the section on Modules needs more examples
+  * Modules can get confusing if not organized well
+* Noticing as a beginner... using can require some complex syntax
+  * But its safe!
+* Across lots of language, be careful about what is constructed, replaced, etc
+  * Read the documentation carefully!!!
+* Like the organization of modules
+* Good to be able to use HashMaps
+  * Heapless crate makes this available for embedded systems!
+  * Cool that we get to have nice things!
+
 ## 2026-06-10
 
 ### What do I think about enums?
