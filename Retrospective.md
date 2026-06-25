@@ -1,4 +1,16 @@
+<!-- markdownlint-disable MD024 -->
 # Retrospectives
+
+## 2026-06-23
+
+### What are my reflections on today’s learnings?
+
+* Appreciate making it work with a small group!
+* .or_insert() and .or_default() are interesting functions
+  * Allows you to condense things into a single line
+* Interesting seeing the lint suppression to error when suppression is not doing anything
+  * Allows you to remove stale suppressions
+* Aliasing in modules was interesting, as well
 
 ## 2026-06-22
 
