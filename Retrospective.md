@@ -1,6 +1,17 @@
 <!-- markdownlint-disable MD024 -->
 # Retrospectives
 
+## 2026-06-30
+
+### What was a head-scratcher and what might be useful?
+
+* Use into_iter() in the quiz was better than iter()
+* Quiz2 would be better TDD if you could get test feedback on each branch
+* Probably the hardest, so far...
+  * Following the compiler hints could have kept me from learning.
+  * Use the "rustc --explain <CODE>" to dig deeper
+* Doing learning as a group and trying different approaches creates more learning
+
 ## 2026-06-23
 
 ### What are my reflections on today’s learnings?
