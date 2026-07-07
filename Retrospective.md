@@ -1,6 +1,19 @@
 <!-- markdownlint-disable MD024 -->
 # Retrospectives
 
+## 2026-07-07
+
+### What did I find interesting?
+
+* Three is the sweet spot for mobbing!
+  * Sometimes too much time between being active with larger groups
+* Option and Result, better to default to match instead of if/else
+  * Match conditions being expressions make them more powerful
+  * If conditions are expressions, but are more verbose
+  * Match is doing coverage checking, if/else does not
+* Consistent pattern of Result and Option make library code more readable
+  * Better to be "as expected"
+
 ## 2026-06-30
 
 ### What was a head-scratcher and what might be useful?
