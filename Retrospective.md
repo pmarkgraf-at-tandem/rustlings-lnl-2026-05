@@ -1,6 +1,17 @@
 <!-- markdownlint-disable MD024 -->
 # Retrospectives
 
+## 2026-07-14
+
+### How could I imaging using today’s learning?
+
+* I'll use “syntactic sugar” because it is fun to say!
+* Need to practice where to put the generic in a signature
+* LISP encoded hardware in its function name
+* .into() checking ranges is super nice
+* You can change something to mutable when passed by ownership
+  * You have to specify this in the trait signature for pass by reference
+
 ## 2026-07-07
 
 ### What did I find interesting?
