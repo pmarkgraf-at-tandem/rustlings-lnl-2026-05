@@ -1,6 +1,13 @@
 <!-- markdownlint-disable MD024 -->
 # Retrospectives
 
+## 2026-07-15
+
+### How could I imaging using today’s learning?
+
+* Nice to remember that something exists, so you can google it later.
+* Helps to come prepared - which I wasn't, today!
+
 ## 2026-07-14
 
 ### How could I imaging using today’s learning?
