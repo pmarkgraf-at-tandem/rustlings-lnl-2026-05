@@ -1,6 +1,15 @@
 <!-- markdownlint-disable MD024 -->
 # Retrospectives
 
+## 2026-07-21
+
+### What was our experience today?
+
+* Nice with a small group
+  * Larger group sometimes comes up with more ideas!
+* Big language
+  * Need to dig deeper to build real intuition
+
 ## 2026-07-15
 
 ### How could I imaging using today’s learning?
