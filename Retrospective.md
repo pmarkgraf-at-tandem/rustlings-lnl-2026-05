@@ -1,6 +1,20 @@
 <!-- markdownlint-disable MD024 -->
 # Retrospectives
 
+## 2026-07-22
+
+### What was our experience today?
+
+* Named lifetime versus static lifetime was good to learn
+* Liked exploring several variation
+  * There are often multiple ways to solve something!
+  * Also the discussion of what "feels best"
+
+### What is getting in the way of learning?
+
+* LiveShare sucks some of the time
+  * Why does LiveShare target Brady?
+
 ## 2026-07-21
 
 ### What was our experience today?
